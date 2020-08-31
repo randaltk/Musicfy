@@ -4,7 +4,7 @@
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
 
-<img src="https://github.com/randaltk/Musicfy/Sem título.png" width="20%" height="20%">
+<img src="https://github.com/randaltk/Musicfy/blob/master/Sem%20t%C3%ADtulo.png" width="20%" height="20%">
 
 ## :hammer: Techs
 
