@@ -1,6 +1,6 @@
-# Musicfy - Electron + React Desktop Music Stream
+# Musicfy - Electron + React Streamer
 
-> Projeto de Serviço de Streaming de musica Desktop inspirado no Spotify, utilizando Electron, Firebase e React js
+> Projeto de Serviço de Streaming  Desktop inspirado no Spotify, utilizando Electron, Firebase e React js
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
 
