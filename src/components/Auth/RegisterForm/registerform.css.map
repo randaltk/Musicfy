@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,cAAc,CAAC;EACb,UAAU,EAAE,IAAI;CAuBjB;;AAxBD,AAGE,cAHY,CAGZ,EAAE,CAAC;EACD,KAAK,EEHI,IAAI;EFIb,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,cAAc,EAAE,IAAI;CACrB;;AARH,AAYM,cAZQ,CAUZ,GAAG,AAAA,KAAK,CACN,MAAM,CACJ,MAAM,CAAC;EACL,aAAa,EAAE,GAAG;CAQnB;;AArBP,AAeQ,cAfM,CAUZ,GAAG,AAAA,KAAK,CACN,MAAM,CACJ,MAAM,CAGJ,KAAK,CAAC;EACJ,gBAAgB,EEVR,OAAO;EFWf,MAAM,EAAE,CAAC;EACT,SAAS,EAAE,IAAI;EACf,KAAK,EElBF,IAAI;CFmBR",
+    "sources": [
+        "registerform.scss",
+        "../../../scss/index.scss",
+        "../../../scss/_color.scss",
+        "../../../scss/_sizes.scss"
+    ],
+    "names": [],
+    "file": "registerform.css"
+}

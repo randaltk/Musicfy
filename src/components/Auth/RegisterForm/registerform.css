@@ -1,0 +1,22 @@
+.register-form {
+  margin-top: 50px;
+}
+
+.register-form h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 35px;
+  padding-bottom: 20px;
+}
+
+.register-form .ui.form .field .input {
+  margin-bottom: 5px;
+}
+
+.register-form .ui.form .field .input input {
+  background-color: #2d2d2d;
+  border: 0;
+  font-size: 16px;
+  color: #fff;
+}
+/*# sourceMappingURL=registerform.css.map */
